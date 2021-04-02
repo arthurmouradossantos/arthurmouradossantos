@@ -2,7 +2,8 @@
 
 - HTML :heavy_check_mark:
 - CSS :heavy_check_mark:
-- JavaScript : heavy_check_mark:         
+- JavaScript :heavy_check_mark:
+- Sass ✔️         
 - React JS (Loading...)
 
 ## Sobre mim
