@@ -4,7 +4,7 @@
 - CSS :heavy_check_mark:
 - JavaScript :heavy_check_mark:
 - Sass ✔️         
-- React JS (Loading...)
+- Vue JS (Loading...)
 
 ## Sobre mim
 
