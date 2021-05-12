@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-Estudante de Engenharia de Telecomunicações, 24 anos, olindense. Estou em busca do meu primeiro emprego como Front-end Developer, por isso dedico grande parte do meu tempo estudando tecnologias como, por exemplo, HTML, CSS, Javascript e React JS.
+Estudante de Engenharia de Telecomunicações, 24 anos, olindense. Estou em busca do meu primeiro emprego como Front-end Developer, por isso dedico grande parte do meu tempo estudando tecnologias como, por exemplo, HTML, CSS, Javascript e Vue JS.
 
 
 
