@@ -1,4 +1,4 @@
-## Front-end Developer Student. It's me, Arthur!
+## Front-end Developer. It's me, Arthur!
 
 - HTML :heavy_check_mark:
 - CSS :heavy_check_mark:
