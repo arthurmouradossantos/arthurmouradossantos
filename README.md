@@ -6,6 +6,5 @@
 - Sass ✔️         
 - Angular ✔️
 - TypeScript ✔️
-
-
+- React ✔️
 
